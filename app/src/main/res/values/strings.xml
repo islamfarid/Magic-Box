@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Sample</string>
+    <string name="magic_box_square_hint">Enter the number of rows or columns</string>
+    <string name="open_magic_box">Open Magic Box</string>
+    <string name="please_fill_data">Please Fill Data !</string>
+    <string name="error_invalid_row_or_column_num">Invalid row or column number it should be more than 2</string>
+    <string name="error_data_for_column_or_rows">Ivnalid Data !</string>
+</resources>
